@@ -1,0 +1,35 @@
+{
+  "name": "Recipes",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "flexbox-react": "^4.2.1",
+    "jquery": "^3.1.1",
+    "jshashes": "^1.0.6",
+    "material-ui": "^0.17.0",
+    "material-ui-upload": "^1.0.0",
+    "moment": "^2.17.1",
+    "ramda": "^0.23.0",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-flexbox-grid": "^0.10.2",
+    "react-redux": "^5.0.3",
+    "react-router": "^4.0.0",
+    "react-router-redux": "^4.0.8",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0",
+    "redux-form": "^6.5.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
